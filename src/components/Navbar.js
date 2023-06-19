@@ -7,9 +7,9 @@ const Navbar = () => {
         <AppBar position="static">
             <Container maxWidth="xl">
                 <Toolbar>
-                    <IconButton edge="start" color="inherit" aria-label="menu">
+                    {/* <IconButton edge="start" color="inherit" aria-label="menu">
                         <MenuIcon />
-                    </IconButton>
+                    </IconButton> */}
                     <Typography variant="h6" sx={{ flexGrow: 1 }}>
                         Zeta
                     </Typography>
