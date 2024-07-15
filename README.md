@@ -31,10 +31,9 @@ https://app.flourish.studio/@flourish/election-results-chart
 1. Installation
    > Mila installe aloha ny nodejs ao anaty matosinao
 2. Afaka alaiana ity repo ity, manaova pull
-   > git pull origin master
+   > git pull origin signIn
 3. Aveo installeo ny modules.
 
    > npm install
 
-4. Rehefa manova aza hitsahina ny branche fa ataovy features-XXX zay zavatra nampidirinao.
-   Alefaso ao amin groupe n fanontaniana raha misy
+4. Branch misy ny inscription de ato daoly ny modif rehetra no alefa
